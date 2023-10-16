@@ -1,0 +1,160 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+  font-family: 'Roboto', sans-serif;
+  color: #495057;
+  background-image: url("https://images.pexels.com/photos/1165991/pexels-photo-1165991.jpeg");
+}
+
+#quote-box {
+  max-width: 600px;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+#text {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+#tweet{
+  width: 10px;
+  height: 10px;
+}
+#author {
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+#new-quote {
+  margin-top: 2rem;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#new-quote:hover {
+  background-color: #0069d9;
+}
+
+.hello {
+  display: block;
+  margin: 2rem auto 0;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  background-color: #e15656;
+  color: #6418f0;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#quote-box {
+  border-radius: 12px;
+ 
+  
+  width: 450px;
+  padding: 40px 50px;
+  display: table;
+  background-color: #1ce222;
+}
+#new-quote {
+  height: 38px;
+  border: none;
+  border-radius: 3px;
+  color: #120912;
+  background-color: #b4d90d;
+  outline: none;
+  font-size: 0.85em;
+  padding: 8px 18px 6px 18px;
+  margin-top: 30px;
+  opacity: 1;
+  cursor: pointer;
+  float: right;
+}  
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.hello{
+   padding: 50px;
+   margin-top: 100px;
+}
+#tweet-quote {
+  float: left;
+  padding: 0px;
+  padding-top: 8px;
+  text-align: center;
+  font-size: 1.2em;
+  margin-right: 5px;
+  height: 30px;
+  width: 40px;
+}
+.onetwo
+{
+   border: 2px solid black;
+   padding: 20px;
+}
+.twoone{
+  color:red;
+}
+#author {
+  width: 450px;
+  height: auto;
+  clear: both;
+  padding-top: 20px;
+  font-size: 1em;
+  text-align: right;
+}
+#text {
+  text-align: center;
+  width: 450px;
+  height: auto;
+  clear: both;
+  font-weight: 500;
+  font-size: 1.75em;
+} */
